@@ -95,11 +95,11 @@ Information about its predecessor XProc 1.0:
 
 ### <a name="history"></a>A little history
 
-The previous version of XProc, [XProc 1.0](https://www.w3.org/TR/xproc/), has been around since 2010 but was never really widely used. People found it hard to comprehend, use and rather verbose. Learning materials were hard to find. However, those that climbed the learning curve used (and still use) it a lot. It’s an extremely useful tool for the complex kind of document processing that happens, for instance, in publishing. 
+The previous version of XProc, [XProc 1.0](https://www.w3.org/TR/xproc/), has been around since 2010 but was never really widely used. People found it hard to comprehend, use and rather verbose. Learning materials were hard to find. However, those that climbed the learning curve used (and still use) it a lot. It’s an extremely useful tool for the complex kind of XML document processing that happens, for instance, in publishing. 
 
-In 2016 a W3C community group started working on [XProc 3.0](http://spec.xproc.org/master/head/) (a 2.0 proposal with a non-XML syntax never got a lot of support and was therefore abandoned). Main goals were to stay closer to the 1.0 syntax, make the language much more usable, understandable and concise, update the underlying standards (most notably XPath) and allow processing of non-XML documents also.
+In 2016 a W3C community group started working on [XProc 3.0](http://spec.xproc.org/master/head/) (a 2.0 proposal with a non-XML syntax never got a lot of support and was therefore abandoned). Main goals were to stay closer to the 1.0 syntax, make the language much more usable, understandable and concise, update the underlying standards (most notably XPath) and allow processing of non-XML documents.
 
-The [XProc 3.0 specification](https://xproc.org/specifications.html) is in “last call” status and very stable. We’re still working on some last details of some of the steps. There is one working processor ([MorganaXProc-IIIse](https://www.xml-project.com/MorganaXProc-III/)) and one on the way (the 3.0 version of [XML Calabash](https://xmlcalabash.com/)).
+The [XProc 3.0 specification](https://xproc.org/specifications.html) is in “last call” status and very stable. We’re still working on some last minor details of some of the steps. There is one working processor ([MorganaXProc-IIIse](https://www.xml-project.com/MorganaXProc-III/)) and one on the way (the 3.0 version of [XML Calabash](https://xmlcalabash.com/)).
 
 We, the people involved in the XProc 3.0 initiative, believe that we’ve turned an old-fashioned, hard to use contraption into an up-to-date and easy to use modern power tool. A tool that can replace many of the incomplete homegrown pipeline implementations that we know are out there.
 

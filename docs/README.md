@@ -12,7 +12,7 @@ The [DA-2021-XProc GitHub repository](https://github.com/xatapult/da-2021-xproc)
   - [IMPORTANT: Preparations for the tutorial](#tutorial-preparations) 
 - [About XProc](#about)
   - [What is XProc?](#what-is-xproc)
-  - [Where to fnd more information](#more-info)
+  - [Where to find more information](#more-info)
   - [A little history](#history)
 - [About the presenter](#presenter)
 

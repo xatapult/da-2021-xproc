@@ -25,6 +25,7 @@ The XProc 3.0 tutorial will be a mix of theory, demos and practice. If time and 
 
 If you would like to follow along and do some of the exercises yourself during the tutorial, you need a working XProc 3.0 processor present and working:
 
+- Clone or download the [tutorial's GitHub repository](https://github.com/xatapult/da-2021-xproc) somewhere to get access to the exercises and presentation.
 - Make sure you have a recent version of Java installed and available (I'm not sure which variants/versions are ok. Personally I'm using Amazon Corretto 1.8.0). If you type `java -version` oin the command line something appropriate should happen.
 - Download [MorganaXProc-IIIse](https://www.xml-project.com/MorganaXProc-III/) and unzip it somewhere.
 - Add the resulting directory on the system's path. If you type `morgana` on the command line there should be some output about its version and a help message about its command line arguments.
@@ -80,7 +81,7 @@ where XProc comes into play: a single executable language to express this.
 - The XProc 3.0 specification can be found at [https://xproc.org/specifications.html](https://xproc.org/specifications.html)
 - A lot of learning materials can be found at [https://xproc.org/learning.html](https://xproc.org/learning.html)
 - An introductory talk by the presenter, held at XML Prague 2019 about XProc 3.0's main concepts and features, can be found  at [https://www.youtube.com/watch?v=O51aE311BKU](https://www.youtube.com/watch?v=O51aE311BKU)
-- There's a programmer reference book for XProc 3.0. More information at [https://xmlpress.net/publications/xproc-3-0/](https://xmlpress.net/publications/xproc-3-0/)
+- There's a programmer reference book (by the presenter) for XProc 3.0. More information at [https://xmlpress.net/publications/xproc-3-0/](https://xmlpress.net/publications/xproc-3-0/)
 - Currently the only working XProc 3.0 processor is [MorganaXProc-IIIse](https://www.xml-project.com/MorganaXProc-III/)
 
 Information about its predecessor XProc 1.0:
@@ -94,7 +95,7 @@ Information about its predecessor XProc 1.0:
 
 ### <a name="history"></a>A little history
 
-The previous version of XProc, [XProc 1.0](https://www.w3.org/TR/xproc/), has been around since 2010 but was never really widely used. People found it hard to comprehend, use and overly verbose. Learning materials were hard to find. However, those that climbed the learning curve use it a lot. It’s an extremely useful tool for the complex kind of document processing that happens, for instance, in publishing. 
+The previous version of XProc, [XProc 1.0](https://www.w3.org/TR/xproc/), has been around since 2010 but was never really widely used. People found it hard to comprehend, use and rather verbose. Learning materials were hard to find. However, those that climbed the learning curve used (and still use) it a lot. It’s an extremely useful tool for the complex kind of document processing that happens, for instance, in publishing. 
 
 In 2016 a W3C community group started working on [XProc 3.0](http://spec.xproc.org/master/head/) (a 2.0 proposal with a non-XML syntax never got a lot of support and was therefore abandoned). Main goals were to stay closer to the 1.0 syntax, make the language much more usable, understandable and concise, update the underlying standards (most notably XPath) and allow processing of non-XML documents also.
 

@@ -26,7 +26,7 @@ The XProc 3.0 tutorial will be a mix of theory, demos and practice. If time and 
 If you would like to follow along and do some of the exercises yourself during the tutorial, you need a working XProc 3.0 processor present and working:
 
 - Clone or download the [tutorial's GitHub repository](https://github.com/xatapult/da-2021-xproc) somewhere to get access to the exercises and presentation.
-- Make sure you have a recent version of Java installed and available (I'm not sure which variants/versions are ok. Personally I'm using Amazon Corretto 1.8.0). If you type `java -version` oin the command line something appropriate should happen.
+- Make sure you have a recent version of Java installed and available (I'm not sure which variants/versions are ok. Personally I'm using Amazon Corretto 1.8.0). If you type `java -version` on the command line something appropriate should happen.
 - Download [MorganaXProc-IIIse](https://www.xml-project.com/MorganaXProc-III/) and unzip it somewhere.
 - Add the resulting directory on the system's path. If you type `morgana` on the command line there should be some output about its version and a help message about its command line arguments.
 - In the tutorial we're not going to use XSLT (so for that you're fine), but doing XSLT in pipelines is very common. However, the distribution of MorganaXProc-IIIse does not include an XSLT processor, you have to add this yourself. The basic information about this is [here](https://www.xml-project.com/files/doc/manual.html#d5e121). For the impatient, here's a quick fix:

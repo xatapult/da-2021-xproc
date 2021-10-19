@@ -4,9 +4,9 @@
 
 [Declarative Amsterdam 2021](https://declarative.amsterdam/) (November 4 and 5, Amsterdam) will kick off with a day of tutorials and workshops. One of these will be an introduction to XProc 3.0.
 
-The [DA-2021-XProc GitHub repository](https://github.com/xatapult/da-2021-xproc) is used to host all materials (presentations, exercises, etc.) for this introduction. It will be filled in the weeks leading up to the conference.
+The [DA-2021-XProc GitHub repository](https://github.com/xatapult/da-2021-xproc) hosts all materials (presentations, exercises, etc.) for this introduction. 
 
-For more information, see the [accompanying GitHub pages site](https://xatapult.github.io/da-2021-xproc/).
+For more information, see the [accompanying GitHub pages site](https://da.xatapult.com/).
 
 <br/>
 Erik Siegel
